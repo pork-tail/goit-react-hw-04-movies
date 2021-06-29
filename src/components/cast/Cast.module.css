@@ -1,0 +1,13 @@
+.title {
+  list-style: none;
+}
+
+.item {
+  list-style: none;
+  padding: 5px;
+  max-width: 200px;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
